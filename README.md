@@ -8,5 +8,5 @@
 
 # Welcome to ENTR-451!!
 
-(c) 2022 Me 
+(c) 2022- Me
 This is an example of a GitHub repository.
